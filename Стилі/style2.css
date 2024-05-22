@@ -1,0 +1,22 @@
+.table-style {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-style th {
+    background-color: #47a6fa;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    padding: 10px;
+}
+
+.table-style td {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333333;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
